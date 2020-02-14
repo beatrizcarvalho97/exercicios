@@ -1,2 +1,2 @@
-document.write("Este é meu primeiro repositório remoto!" + "<br>");
-document.write("Codar é show!");
+document.write("Generation Brasil" + "<br>");
+document.write("Turma Azul é a melhor hahaha");
